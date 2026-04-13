@@ -1,5 +1,5 @@
 
-# Hi there! 👋 I'm Juliana Martins
+# Hi there! 👋 I'm Juliana 
 
 ### 🌎 About Me
 Brazilian, living in Barcelona, graduated in **Business Administration** and holding a **Master's degree in Innovation**. Currently working at **Amazon** in seller support operations and transitioning my career into the **data field**.
