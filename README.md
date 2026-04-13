@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Juliana Martins
 
 ### 🌎 About Me
-Brazilian, graduated in **Business Administration** and holding a **Master's degree in Innovation**. Currently working at **Amazon** in inventory operations and transitioning my career into the **data field**.
+Brazilian, living in Barcelona, graduated in **Business Administration** and holding a **Master's degree in Innovation**. Currently working at **Amazon** in inventory operations and transitioning my career into the **data field**.
 
 I completed the **Data Analytics course by Correlation One** and I'm building my technical portfolio while developing my analytical skills.
 
