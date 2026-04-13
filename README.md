@@ -23,6 +23,3 @@ I completed the **Data Analytics course by Correlation One** and I'm building my
 
 ### 📫 Let's Connect?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliana-martins-1b5278147/)
-
-### 📊 GitHub Stats
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusmartinsmm-dot&show_icons=true&theme=radical)
