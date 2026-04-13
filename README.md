@@ -14,7 +14,7 @@ I completed the **Data Analytics course by Correlation One** and I'm building my
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### 📂 Featured Projects
-- **[global-ads-performance-sql](https://github.com/jusmartinsmm-dot/global-ads-performance-sql)** - Complete analysis of global ads performance using SQL
+- **[global-ads-performance-sql](https://jusmartinsmm-dot.github.io/global-ads-performance-sql/#overview)** - Complete analysis of global ads performance using SQL
 
 ### 🎯 Currently
 - 📊 Practicing advanced SQL (Window Functions, CTEs, complex JOINs)
